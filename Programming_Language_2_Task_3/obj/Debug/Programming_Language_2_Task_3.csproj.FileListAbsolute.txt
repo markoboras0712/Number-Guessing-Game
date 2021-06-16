@@ -1,0 +1,10 @@
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.csprojAssemblyReference.cache
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.Form1.resources
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.Properties.Resources.resources
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.csproj.GenerateResource.cache
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.csproj.CoreCompileInputs.cache
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\bin\Debug\Programming_Language_2_Task_3.exe.config
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\bin\Debug\Programming_Language_2_Task_3.exe
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\bin\Debug\Programming_Language_2_Task_3.pdb
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.exe
+C:\Users\boras\source\repos\Programming_Language_2_Task_3\Programming_Language_2_Task_3\obj\Debug\Programming_Language_2_Task_3.pdb
